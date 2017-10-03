@@ -1,6 +1,6 @@
 architecture: arm64
 battery: Non-removable Li-Ion 3300 mAh
-bluetooth: v4.2 with A2DP, LE
+bluetooth: Bluetooth 5.0 with support aptX & aptX HD
 cameras:
 - {flash: 'LED', info: '20 MP'}
 - {flash: 'LED', info: '16 MP'}
